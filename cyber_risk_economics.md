@@ -49,9 +49,9 @@ The red says that there is 1% chance you will lose at least
 Note whether this is a ‘good’ chart or a ‘bad’ chart depends on your company. To many smaller companies this would be horrible.
 However a large bank might love to have it this good.
 
-I’ll show how to use this for comparing alternatives later in the talk.
 
-I mentioned we’d talk about the CIA after money.
-In infosec, CIA stands for
-
+how do do an endnote <sup>[1](#endnote1)</sup> and then put at end
+## Endnotes
+ 1. <a name="endnote1">how</a> this is an endnote
+ 2. <a name="endnote2">More</a> endnotes
 
